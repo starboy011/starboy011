@@ -15,8 +15,6 @@
 ## Tools and Others
 ![Git](https://img.shields.io/badge/Git-%23fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800) ![New Relic](https://img.shields.io/badge/New%20Relic-%23008C99?style=for-the-badge) ![Data Structures](https://img.shields.io/badge/Data%20Structures-%23007396?style=for-the-badge) ![Algorithms](https://img.shields.io/badge/Algorithms-%23333333?style=for-the-badge)
 
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=starboy011&theme=dark&hide_border=false)<br/>
 ---
