@@ -1,10 +1,11 @@
 ![IMG_20231001_203307](https://github.com/starboy011/starboy011/assets/122264789/9f15991f-dda8-4a58-935d-bff418b76fe2)
 
+<h1 align="center">Hi 👋, I'm Rishav Choudhary</h1>
+<h3 align="center">A passionate full stack (Android + Web) developer!</h3>
 
-
-# 💻 Tech Stack:
+# 💻 Tech Stack:       [![](https://visitcount.itsvg.in/api?id=starboy011&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 ## Front End
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) ![Native](https://img.shields.io/badge/React%20Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 
@@ -17,7 +18,7 @@
 ## Tools and Others
 ![Git](https://img.shields.io/badge/Git-%23fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800) ![New Relic](https://img.shields.io/badge/New%20Relic-%23008C99?style=for-the-badge) ![Data Structures](https://img.shields.io/badge/Data%20Structures-%23007396?style=for-the-badge) ![Algorithms](https://img.shields.io/badge/Algorithms-%23333333?style=for-the-badge)
 
+
+
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=starboy011&theme=dark&hide_border=false)<br/>
----
-[![](https://visitcount.itsvg.in/api?id=starboy011&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![](https://github-readme-streak-stats.herokuapp.com/?user=starboy011&theme=dark&hide_border=false)  ![](https://github-readme-streak-stats.herokuapp.com/?user=starboy011&theme=light&hide_border=false)
