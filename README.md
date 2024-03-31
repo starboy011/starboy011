@@ -1,6 +1,5 @@
 ![IMG_20231001_203307](https://github.com/starboy011/starboy011/assets/122264789/9f15991f-dda8-4a58-935d-bff418b76fe2)
 
-
 <h1 align="center">Hi 👋, I'm Rishav Choudhary</h1>
 <h3 align="center">A passionate full stack (Android + Web) developer, and the founder of ERPX</h3>
 
