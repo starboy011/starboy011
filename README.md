@@ -20,4 +20,4 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=starboy011&theme=dark&hide_border=ture)  ![](https://github-readme-streak-stats.herokuapp.com/?user=starboy011&theme=light&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=starboy011&theme=light&hide_border=true)
