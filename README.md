@@ -1,23 +1,120 @@
-![IMG_20231001_203307](https://github.com/starboy011/starboy011/assets/122264789/9f15991f-dda8-4a58-935d-bff418b76fe2)
-<h1 align="center">Hi 👋, I'm Rishav Choudhary</h1>
-<h3 align="center">A passionate full stack (Android + Web) developer, and the founder of ERPX</h3>
+<!-- Full-Width Banner -->
+<p align="center">
+  <img src="https://github.com/starboy011/starboy011/assets/122264789/9f15991f-dda8-4a58-935d-bff418b76fe2" 
+       style="width:100%; border-radius: 12px;" />
+</p>
 
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=800&color=F39C12&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Rishav+Choudhary.;Software+Developer+at+Amazon+%F0%9F%8C%9F;Full+Stack+Engineer+%7C+Go+%7C+Java+%7C+React+Native;AWS+Practitioner+%7C+DynamoDB+%7C+Lambda+%7C+SQS+%7C+SNS;Founder+of+ERPX" />
+</h1>
 
-# 💻 Tech Stack:      
-## Front End
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+---
 
+<!-- Social Buttons -->
+<p align="center">
+  <a href="mailto:rishavofficial294@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/starboy011">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/rishavchoudhary081/)/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-## Back End
-![Go](https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white) 
+---
 
-## Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300000f?style=for-the-badge&logo=mysql&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge)
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/wave.svg" width="100%" />
 
-## Tools and Others
-![Git](https://img.shields.io/badge/Git-%23fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800) ![New Relic](https://img.shields.io/badge/New%20Relic-%23008C99?style=for-the-badge) ![Data Structures](https://img.shields.io/badge/Data%20Structures-%23007396?style=for-the-badge) ![Algorithms](https://img.shields.io/badge/Algorithms-%23333333?style=for-the-badge)
+# ⚡ About Me
 
+I'm a **Software Developer at Amazon (Prime Team)** where I build high-scale distributed systems  
+leveraging **AWS DynamoDB, Lambda, SQS, SNS, API Gateway, Cognito, ECS**, etc.
 
+💡 Passionate about backend engineering, cloud, system design & scalable architectures.  
+📱 Creator of **Mulvansham App** (1700+ genealogy profiles).  
+🚀 Founder of **ERPX** — customizable ERP solutions for industries.  
+🧠 Fluent in **Go, Java Spring Boot, React Native, SQL/NoSQL, Kafka, Redis**.
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=starboy011&theme=light&hide_border=true) <img src="./Boy.png" alt="Boy" width="200" />
+---
+
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/wave.svg" width="100%" />
+
+# 🛠️ Tech Stack (Interactive Icons)
+
+<p align="center">
+  
+  <!-- Programming -->
+  <img src="https://skillicons.dev/icons?i=go,java,spring,cpp,c,php,js,ts,react,reactnative" /><br>
+
+  <!-- AWS -->
+  <img src="https://skillicons.dev/icons?i=aws,dynamodb" />
+  <img src="https://img.shields.io/badge/🟧_SNS-FF9900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🟧_SQS-FF9900?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🟪_Cognito-6A0DAD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API_Gateway-FF4F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lambda-F7A800?style=for-the-badge" />
+
+  <!-- Databases -->
+  <br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+
+  <!-- Tools -->
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,idea,vscode,github" />
+
+</p>
+
+---
+
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/wave.svg" width="100%" />
+
+# 📊 GitHub Analytics (Interactive)
+
+<div align="center">
+
+  <!-- Streaks -->
+  <img src="https://streak-stats.demolab.com?user=starboy011&theme=highcontrast&border_radius=10" width="60%"/>
+
+  <br><br>
+
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=starboy011&show_icons=true&theme=transparent&rank_icon=github&hide_border=true" width="50%" />
+
+  <br><br>
+
+  <!-- Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starboy011&layout=compact&theme=transparent&hide_border=true" width="40%" />
+
+</div>
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
+
+---
+
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/wave.svg" width="100%" />
+
+# 🎯 My Philosophy
+> **“Code. Build. Scale. Repeat.”**  
+> Think big. Dive deep. Deliver results. (Amazon Leadership Principles)
+
+---
+
+# 🧡 Connect With Me
+
+<p align="center">
+  <a href="mailto:rishavofficial294@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
