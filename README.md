@@ -27,7 +27,6 @@
 ---
 
 <!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/wave.svg" width="100%" />
 
 # ⚡ About Me
 
@@ -42,7 +41,6 @@ leveraging **AWS DynamoDB, Lambda, SQS, SNS, API Gateway, Cognito, ECS**, etc.
 ---
 
 <!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/wave.svg" width="100%" />
 
 # 🛠️ Tech Stack (Interactive Icons)
 
@@ -72,7 +70,6 @@ leveraging **AWS DynamoDB, Lambda, SQS, SNS, API Gateway, Cognito, ECS**, etc.
 ---
 
 <!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/wave.svg" width="100%" />
 
 # 📊 GitHub Analytics (Interactive)
 
@@ -103,7 +100,6 @@ leveraging **AWS DynamoDB, Lambda, SQS, SNS, API Gateway, Cognito, ECS**, etc.
 ---
 
 <!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/wave.svg" width="100%" />
 
 # 🎯 My Philosophy
 > **“Code. Build. Scale. Repeat.”**  
