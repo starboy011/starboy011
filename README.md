@@ -69,30 +69,6 @@ leveraging **AWS DynamoDB, Lambda, SQS, SNS, API Gateway, Cognito, ECS**, etc.
 </p>
 
 ---
-
-<!-- Wave Divider -->
-
-# 📊 GitHub Analytics (Interactive)
-
-<div align="center">
-
-  <!-- Streaks -->
-  <img src="https://streak-stats.demolab.com?user=starboy011&theme=highcontrast&border_radius=10" width="60%"/>
-
-  <br><br>
-
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=starboy011&show_icons=true&theme=transparent&rank_icon=github&hide_border=true" width="50%" />
-
-  <br><br>
-
-  <!-- Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starboy011&layout=compact&theme=transparent&hide_border=true" width="40%" />
-
-</div>
-
----
-
 <!-- Snake Animation -->
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
